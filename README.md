@@ -1,7 +1,7 @@
 # Lab 1
 ## Find chessboard coordinates
 ![obraz](https://github.com/user-attachments/assets/9f688048-bac7-4c22-8d11-4e8af62e2776)
-# Remove distortion
+## Remove distortion
 ![obraz](https://github.com/user-attachments/assets/464bb79c-937f-447b-beb7-1fbc4caf66d6)
 
 # Lab 2
